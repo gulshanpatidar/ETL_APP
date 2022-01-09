@@ -1,4 +1,4 @@
-package com.example.etl_app.models
+package com.example.etl_app.data.models
 
 enum class ProductCategory{
     GROCERY,GENERAL_ITEMS,CLOTHING,FOOD,ELECTRONICS,STATIONARY,BAKERY,MEDICAL_ITEMS,FARMING_ESSENTIALS,GIFT_ITEMS,APPAREL

@@ -1,4 +1,4 @@
-package com.example.etl_app.models
+package com.example.etl_app.data.models
 
 data class User(
     val userId: String = "",

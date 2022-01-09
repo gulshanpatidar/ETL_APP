@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170748779417",
+    "project_id": "etl-app-4a883",
+    "storage_bucket": "etl-app-4a883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170748779417:android:4fece6f3d970aa8c799108",
+        "android_client_info": {
+          "package_name": "com.example.etl_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170748779417-8cqdnfvs28hfnge6sldgvp1985ki713j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp_aWOAEFihEYm7hXCSgSW6Yic9S8HkjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170748779417-8cqdnfvs28hfnge6sldgvp1985ki713j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

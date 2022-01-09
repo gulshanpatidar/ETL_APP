@@ -1,6 +1,6 @@
-package com.example.etl_app.daos
+package com.example.etl_app.data.daos
 
-import com.example.etl_app.models.User
+import com.example.etl_app.data.models.User
 import com.google.android.gms.tasks.Task
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.CollectionReference
